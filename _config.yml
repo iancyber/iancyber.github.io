@@ -1,7 +1,7 @@
 # Site settings
 title: 唯一者    				  	#你博客的标题
 SEOTitle: 你的博客 | You Blog    	 #显示在浏览器上搜索的时候显示的标题
-header-img: IMG_2942(20201201-132615).JPG  	#显示在首页的背景图片
+header-img: img/IMG_2942(20201201-132615).JPG  	#显示在首页的背景图片
 email: 2899293685@qq.com
 description: NULL  			 #网站介绍
 keyword: "0" #关键词
