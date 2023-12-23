@@ -1,6 +1,6 @@
 # Site settings
-title: 唯一者    				  	#你博客的标题
-SEOTitle: 你的博客 | You Blog    	 #显示在浏览器上搜索的时候显示的标题
+title: cowboy    				  	#你博客的标题
+SEOTitle: 流放地   	 #显示在浏览器上搜索的时候显示的标题
 header-img: img/IMG_2942(20201201-132615).JPG  	#显示在首页的背景图片
 email: 2899293685@qq.com
 description: NULL  			 #网站介绍
@@ -62,7 +62,7 @@ gitalk:
   enable: true    #是否开启Gitalk评论
   clientID: f2c84e7629bb1446c1a4                            #生成的clientID
   clientSecret: ca6d6139d1e1b8c43f8b2e19492ddcac8b322d0d    #生成的clientSecret
-  repo: qiubaiying.github.io    #仓库名称
+  repo:     #仓库名称
   owner: iancyber    #github用户名
   admin: iancyber
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
